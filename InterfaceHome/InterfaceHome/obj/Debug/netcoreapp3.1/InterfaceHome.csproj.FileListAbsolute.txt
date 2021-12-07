@@ -1,0 +1,14 @@
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson11_interface\InterfaceHomeWork\InterfaceHome\InterfaceHome\bin\Debug\netcoreapp3.1\InterfaceHome.exe
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson11_interface\InterfaceHomeWork\InterfaceHome\InterfaceHome\bin\Debug\netcoreapp3.1\InterfaceHome.deps.json
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson11_interface\InterfaceHomeWork\InterfaceHome\InterfaceHome\bin\Debug\netcoreapp3.1\InterfaceHome.runtimeconfig.json
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson11_interface\InterfaceHomeWork\InterfaceHome\InterfaceHome\bin\Debug\netcoreapp3.1\InterfaceHome.runtimeconfig.dev.json
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson11_interface\InterfaceHomeWork\InterfaceHome\InterfaceHome\bin\Debug\netcoreapp3.1\InterfaceHome.dll
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson11_interface\InterfaceHomeWork\InterfaceHome\InterfaceHome\bin\Debug\netcoreapp3.1\InterfaceHome.pdb
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson11_interface\InterfaceHomeWork\InterfaceHome\InterfaceHome\obj\Debug\netcoreapp3.1\InterfaceHome.csproj.AssemblyReference.cache
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson11_interface\InterfaceHomeWork\InterfaceHome\InterfaceHome\obj\Debug\netcoreapp3.1\InterfaceHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson11_interface\InterfaceHomeWork\InterfaceHome\InterfaceHome\obj\Debug\netcoreapp3.1\InterfaceHome.AssemblyInfoInputs.cache
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson11_interface\InterfaceHomeWork\InterfaceHome\InterfaceHome\obj\Debug\netcoreapp3.1\InterfaceHome.AssemblyInfo.cs
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson11_interface\InterfaceHomeWork\InterfaceHome\InterfaceHome\obj\Debug\netcoreapp3.1\InterfaceHome.csproj.CoreCompileInputs.cache
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson11_interface\InterfaceHomeWork\InterfaceHome\InterfaceHome\obj\Debug\netcoreapp3.1\InterfaceHome.dll
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson11_interface\InterfaceHomeWork\InterfaceHome\InterfaceHome\obj\Debug\netcoreapp3.1\InterfaceHome.pdb
+C:\Users\Baxtiyar\Documents\CODE ACADEMY\lesson11_interface\InterfaceHomeWork\InterfaceHome\InterfaceHome\obj\Debug\netcoreapp3.1\InterfaceHome.genruntimeconfig.cache
